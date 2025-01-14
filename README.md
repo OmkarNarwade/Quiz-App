@@ -15,9 +15,10 @@
  - Dart: Programming language for app logic and UI.
 
 # Screenshots
-Home Screen with Questions :- (screenshots\Home Screen with Questions.PNG)
-Answer Selection :- 1.(screenshots\Answer Selection.png) 2.(screenshots\Answer Selection2.png)
-Quiz Completion Summary :- (screenshots\Quiz Completion Summary.png)
+- Home Screen with Questions :- (screenshots\Home Screen with Questions.PNG)
+- Answer Selection :- 1.(screenshots\Answer Selection.png)
+                      2.(screenshots\Answer Selection2.png)
+- Quiz Completion Summary :- (screenshots\Quiz Completion Summary.png)
 
 # How to Run the Project
  - Follow these steps to set up and run the project locally:
