@@ -32,12 +32,13 @@
    - flutter run
 
 # Folder Structure
- - The project is organized as follows:
-lib/
-│
-├── main.dart                  # Entry point of the application
-├── models/                    # Contains model classes
-│   └── single_question_format.dart # Question format definition
-├── widgets/                   # Reusable UI widgets
-└── screens/                   # Screens for question and result display
+- The project is organized as follows:
+  
+- lib/
+ - │
+ - ├── main.dart                  # Entry point of the application
+ - ├── models/                    # Contains model classes
+ - │   └── single_question_format.dart # Question format definition
+ - ├── widgets/                   # Reusable UI widgets
+ - └── screens/                   # Screens for question and result display
 
