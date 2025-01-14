@@ -15,11 +15,15 @@ This Quiz App is built using Flutter and provides an engaging way to test users'
 - **Dart**: Programming language for app logic and UI.
 
 ## Screenshots
-- **Home Screen with Questions**: ![Home Screen with Questions](screenshots/Home%20Screen%20with%20Questions.PNG)
+- **Home Screen with Questions**:
+- ![Home Screen with Questions](screenshots/Home%20Screen%20with%20Questions.PNG)
+
 - **Answer Selection**: 
    - ![Answer Selection](screenshots/Answer%20Selection.png)
    - ![Answer Selection 2](screenshots/Answer%20Selection2.png)
-- **Quiz Completion Summary**: ![Quiz Completion Summary](screenshots/Quiz%20Completion%20Summary.png)
+
+- **Quiz Completion Summary**:
+- ![Quiz Completion Summary](screenshots/Quiz%20Completion%20Summary.png)
 
 ## How to Run the Project
 Follow these steps to set up and run the project locally:
