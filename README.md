@@ -22,13 +22,13 @@
 
 # How to Run the Project
  - Follow these steps to set up and run the project locally:
-  1) Clone the Repository:
+ - 1) Clone the Repository:
    - git clone https://github.com/OmkarNarwade/Quiz-App.git
-  2)Navigate to the Project Directory:
+ - 2)Navigate to the Project Directory:
    - cd quiz_app2
-  3)Install Dependencies:
+ - 3)Install Dependencies:
    - flutter pub get
-  4)Run the App:
+ - 4)Run the App:
    - flutter run
 
 # Folder Structure
